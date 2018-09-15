@@ -1,0 +1,16 @@
+html {
+  background-color: #0769ad;
+ }
+
+#content {
+  background-color: #fff;
+  border-radius: 8px;
+  margin: 30px;
+  padding: 30px;
+ }
+
+ img{
+  margin-left: auto;
+	margin-right: auto;
+	display: block;
+ }
