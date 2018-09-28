@@ -5,7 +5,7 @@ In the famous words of "I don't know. Who cares":
 
 So, for backend sessions, make sure you have:
 * Installed a Linux operating system. Because:
-*> "Microsoft is not the answer. Microsoft is the question. NO is the answer." <*
+  - "Microsoft is not the answer. Microsoft is the question. NO is the answer."
 * Installed git and pip
   * `sudo apt-get update`
   * `sudo apt-get install git`
@@ -13,7 +13,7 @@ So, for backend sessions, make sure you have:
 * Installed Virtual Environment ( We are going to use pipenv )
   * `pip3 install --user pipenv`
 
-* Make a vertual environment:
+* Make a virtual environment:
   * `pipenv --python 3.6`
 * Activate the environment
   * `pipenv shell`
